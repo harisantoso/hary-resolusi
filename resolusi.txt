@@ -3,3 +3,4 @@ Hary Resolusi
 - Belajar PHP
 - Belajar HTML
 - Belajar CSS
+- Belajar Javascript
